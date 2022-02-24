@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The examination and correction of a paper lately printed intituled A relation of the discourse between Mr. Hugh Peters and Lieut. Collonel Iohn Lilborn in the Tower of London, May 25 whereunto is added for the satisfaction of all that desire it and the just vindication of Mr. Peters from the scandall the relator would insinuate against him ... / by Robert Massey.</title>
+            <author>Massey, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50084</idno>
+            <idno type="STC">Wing M1039A</idno>
+            <idno type="STC">ESTC R28814</idno>
+            <idno type="EEBO-CITATION">10763345</idno>
+            <idno type="OCLC">ocm 10763345</idno>
+            <idno type="VID">45724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The examination and correction of a paper lately printed intituled A relation of the discourse between Mr. Hugh Peters and Lieut. Collonel Iohn Lilborn in the Tower of London, May 25 whereunto is added for the satisfaction of all that desire it and the just vindication of Mr. Peters from the scandall the relator would insinuate against him ... / by Robert Massey.</title>
+                  <author>Massey, Robert, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45724:1" rendition="simple:additions"/>
+            <p>THE EXAMINATION, and <hi>CORRECTION</hi> of a Paper lately Printed Intituled <hi>A Relation of the Diſcourſe, between Mr.</hi> Hugh Peters <hi>and Lieut. Collonel</hi> Iohn Lilborn <hi>in the Tower</hi> of London, May 25.</p>
+            <p>Whereunto is added for the ſatisfaction of all that deſire it; and the juſt Vindication of Mr <hi>Peters,</hi> from the Scandall the Relator would i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſinuate againſt him by his imperfect, falſe, and miſapplyed R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lation; a per<g ref="char:EOLhyphen"/>fect true and impartiall Relation of the whole diſ<g ref="char:EOLhyphen"/>courſe that paſſed between them.</p>
+            <p>By ROBERT MASSEY, Doctor in Phy<g ref="char:EOLhyphen"/>ſick, who was preſent thereat, and an Ear Witneſſe thereof.</p>
+            <q>Nunquam ſera venit veritas.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Gartrude Dawſon,</hi> May the 5. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45724:2" rendition="simple:additions"/>
+            <head>The examination and correction of a Paper lately printed, and intituled a <hi>Relation of the Diſcourſe between Mr.</hi> Hugh Peters, <hi>and Lieut. Coll.</hi> John Lilborne <hi>in the Tower of</hi> London, May the <hi>25.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>AVing peruſed a Paper paſſing up and down intituling it ſelf the relation of a Diſcourſe that paſſed between Mr. <hi>Hugh Peters</hi> and Leiutenant Collonel <hi>John Lilborne</hi> Pri<g ref="char:EOLhyphen"/>ſoner in the Tower. And perceiving the evill Spirit and intention of the Relator, though in his front ſeems to car<g ref="char:EOLhyphen"/>ry the pretention of publike benefit; and being ſenſible how exceedingly he hath wreſted and tentered the diſcourſe, to make ſome thing at leaſt ſeem to ſpeak in it to the ſlander and ſcandal of that reverend, and the Goſpels, and his Countries faithfull friend and ſervant, Mr. <hi>Hugh Peters:</hi> I thought my ſelf obliged in honeſty, being preſent at the diſ<g ref="char:EOLhyphen"/>courſe, and an ear-witnes of the ſame; to give the world a true, impartiall, perfect relation thereof; and then leave the impartiall wel-affected reader to judge of the Relator, and his relation accordingly.</p>
+            <p>But before I come to give you the Relation, of the Conference between them; I ſhall take leave to premiſe to the Readers obſervation, ſome few particulars; whereby he ſhall eaſily obſerve the Malignant and evill <hi>genius</hi> of the relator, and relation publiſhed, as it appears to inſinuate into the people, ſuſpitions and jealouſie of the Parliament, Generall, Leiut. Generall, and the whole Army; and on all the Faithfull and worthy Patriots of the Common wealth: thus as it were adding more fuell to incenſe, and in<g ref="char:EOLhyphen"/>flame the malignant, diſcontented, hot-ſpur, hair-braind Spirits of the times, unto ſuch actings, as may effectuate their miſchivous, malignant de<g ref="char:EOLhyphen"/>ſignes, for the ruine and deſtruction, of the Common-wealth, and Free-State, thus newly by Gods bleſſing, and their unceſſant endeavours ſettled and eſtabliſhed, as the harveſt and reward of our long and tedious labours and ſufferings or at leaſt vent their perſonall and private malice and ſpleen, in that they cannot be eſteemed and preferred, according to that value and worth that their pride and ſelf-conceipt hath exalted them in their own thoughts to aſpire unto: and all this they would colour over under the pretence of ſtanding for the Laws and the Peoples Liberties, although theſe men will account or eſteem nothing to be Law, Juſtice, or Freedome, lon<g ref="char:EOLhyphen"/>ger than it ſtands with their private ends and pleaſures; thus to bear them out and juſtifie them in their headie, raſh, and inconſiderat enterpriſes, they will ſtand for, and cry up any rotten, oppreſſive, ſlaviſh, abſolet law, though the very ſelf-ſame laws have been by them exclaimed again, as un<g ref="char:EOLhyphen"/>juſt and unrighteous: And all becauſe it warrants their malignant, ſinfull, reaſonleſſe proceedings and actions in the accompliſhed of one or both
+<pb facs="tcp:45724:2"/>their evill ends and deſignes forementioned; and this reader <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> finde to be the intent and purpoſe of the falſe Relator, in his relation of the conference between Mr. <hi>Peters</hi> and Lieut, Coll. <hi>John Lilborne,</hi> for thou ſhalt in the enſuing true relation obſerve, that he hath not onely omit<g ref="char:EOLhyphen"/>ted ſome things and words that were ſpoken; but alſo added many other ſome that were not: and what he hath related of truth, he hath wholly perverted, miſapplyed to his evill and malicious purpoſe; and ſo I leave him, and his friend and friends, to the conviction of their own conſcience.</p>
+            <p>And now gentle Reader, I proceed to give thee (according to my promiſe,) a full, true, and impartiall relation of the diſcourſe, that paſſed between them, not adding or detracting any one word, or ſyl<g ref="char:EOLhyphen"/>lable as neer as my memory ſhall enable me, which was thus:</p>
+            <p>Mr. <hi>Peters,</hi> my ſelfe, and one Captaine <hi>Smith</hi> of the Army, comming to the Cuſtome Houſe about ſome buſineſſe, and walking in the walke there, Mr. <hi>Peters</hi> was ſhamefully and baſely abuſed and vilified in ſlander<g ref="char:EOLhyphen"/>ous words and execrations by the Malignant Porters, and Frock-men there, ſo as if he had not withdrawne in probabillity, they would have fallen on his perſon,<note place="margin">Re<gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ha<gap reason="illegible: missing" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible: missing" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion tha<gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Mr <gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ha<gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſitt<gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lie<gap reason="illegible: missing" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Jo<gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible: missing" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>bu<gap reason="illegible: missing" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </hi>
+               </note> for their carriages and countenances did evidently ſpeake forth their mallitious purpoſes; Mr. <hi>Peters</hi> thereupon reſolved to goe to the Tower, where, ſaid he to me, I ſhall finde ſome of Collonell <hi>Prides</hi> men, who through the Lievtenant of the Towers aſſiſtance, he being my very good friend, I ſhall procure ſome of them, to ſeize ſome one or other of thoſe uncivill rude fellows. Thus we went to the Tower together, and as we were entering in at the gate, we had ſome diſcourſe of Lievtenant Collonell <hi>Lilburnes</hi> being there, the place onely adminiſtring the occaſion thereof, in that we had formerly knowne Lievetenant Collo<g ref="char:EOLhyphen"/>nell <hi>Lilburne:</hi> So Mr. <hi>Peters</hi> comming to the Lievtenant of the Tower, after ſome ſalutes, and that he had informed him of his abuſe at the Cu<g ref="char:EOLhyphen"/>ſtome Houſe, partly of his owne minde, and partly, at the inſtance of my ſelfe and one friend more; he deſired the Lievtenant of the Tower that he might ſee Lievtenant Collonell <hi>John Lilburne:</hi> the Lievtenant of the Tower replyed, Sir, I am very ſtrict and carefull who I permit to viſit him but I ſhall ſuffer you, ſeeing it is your deſire; Mr. <hi>Peters</hi> replyed, I have beene acquainted with him formerly and ſeeing I am come hither ſo acci<g ref="char:EOLhyphen"/>dentally, I deſire to give him ſome good counſell, if he be in a diſpoſition to embrace it; as alſo to heare from his owne mouth what he hath to ſay for himſelfe in refference to his raſh counſels of late: So the Lievtenant of the Tower, Mr. <hi>Peters,</hi> my ſelfe and another freind being alſo deſirous in freindſhip to ſee him, went to his lodging, where we found him at din<g ref="char:EOLhyphen"/>ner, with wholſome fare, though meane, which (after ſalutes paſſed) occaſi<g ref="char:EOLhyphen"/>oned as I ſuppoſed the Lievtenant of the Tower to ſay to him, I perceive
+<pb facs="tcp:45724:3" rendition="simple:additions"/>Lievtenant Collonell your fare is ſutable to your allowance.</p>
+            <p>Yea Sir, replyed the Lievtenant Collonell, the fare is good will you pleaſe to ſit downe Gentlemen and eate with us; ſo we ſate downe and eate with him and his wife, ſhe being then at dinner with him.</p>
+            <p>Mr. <hi>Peters</hi> give me leave to be plain with you, ſaid L. Coll. <hi>Lilborn,</hi> I doubt you are come on ſome deſigne, you are ſent a fiſhing by your great Maſters:</p>
+            <p>Mr. <hi>Peters</hi> replyed, I have no other deſigne in the world, but to give you a friendly viſit L. Coll. as theſe Gentl. can teſtifie; my comming hither being meerly accidentall.</p>
+            <p>You have no deſigne now, no more then you had the laſt year when you came hither to lye in the Tower, whileſt the Aldermen were here?</p>
+            <p>I profeſſe ſaid Mr. <hi>Peters,</hi> in the preſence of God, I have not now, nor had then any de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gn, but comming with ſome of the Parliament ſouldiers that were to quarter in the Tower, I liked Coll <hi>Whites</hi> houſe ſo well, for the pleaſantnes, ayre, and conveniency thereof in my opinion, that I took up my aboad there for a while, for my health ſake: but you ſpeak of deſigns, as if all men were on deſignes? I proteſt, I know no deſign my ſelf, the Parliament or any in the Army have, other then to advance the glory of God, and the good of his people.</p>
+            <p>You know in a Play, every one acts his part, and ſo you only act yours, and another his, I will not truſt any of your or their faire words, or proteſtati<g ref="char:EOLhyphen"/>ons; I know not what deſignes they have, but I am ſure they would take away my life if they could.</p>
+            <p>Why, ſaid Mr. <hi>Peters,</hi> who goes about to take away your life, I know no man that ſeeks your life? you may live long enough for me or for any other for ought I know.</p>
+            <p>I care not for my life replyed L. Col. <hi>Lilborn</hi> not this, if they ſhould take it away as they dare not: but they were as good take it away, as keep me here and take away my livelihood, by which my ſelf, wife and family ſhould ſubſiſt.</p>
+            <p>Why, hath he on allowance from the State, ſaid Mr. <hi>Peters</hi> to the Lieut. of the Tower, hath he not?</p>
+            <p>Yes ſaid the Lieut. of the Tower; the State allows him twenty ſhillings a week, if he would accept of it, as the reſt doe.</p>
+            <p>Why, will you not accept of it, ſaid Mr. <hi>Peters?</hi>
+            </p>
+            <p>No replyed, Lieut. Coll. <hi>Lilborne;</hi> I ſcorn to undervalue my ſelf ſo much as to accept of it, I had rather make a ſhift and be without it: I am ſure the King that they have put to death for a Tyrant allowed more then it to the meaneſt Priſoner that ever came hither.</p>
+            <p>Why? what hath been accuſtomed to be allowed ſaid Mr. <hi>Peters?</hi>
+            </p>
+            <pb facs="tcp:45724:3"/>
+            <p>The meaneſt priſoner that ever came hither ſaid he had three pound a week: the very <hi>Smith</hi> that the Biſhop of <hi>Canterbury</hi> ſent hither, whoſe head is now on <hi>London</hi> bridge, had ſo much while he was here.</p>
+            <p>Is it poſſible? ſaid Mr. <hi>Peters:</hi> yea but you know L. Coll. <hi>Lilborne,</hi> that the State now hath many more uſes and occaſions for money then the King had.</p>
+            <p>I deny that ſaid L. Coll. <hi>Lilborne,</hi> how can that be? they have all the Kings Revenues; and many other wayes that bring in money, that he had not: and therefore may as well allow it as he could.</p>
+            <p>No, but indeed the State is very bare of money notwithſtanding, in that theſe troubles have occaſioned the experce of much more then was need<g ref="char:EOLhyphen"/>full in a time of peace:</p>
+            <p>No, ſaid Lieut. Coll. <hi>Lilborne</hi> that cannot be that ſuch vaſt ſummes of money as they have had and have, ſhould be thus expended: what with a miſchief ſhould become of it? do we not ſee that <hi>Ireton</hi> and <hi>Cromwell,</hi> and your great Maſters the Parliament men as you call them, give away to one another thouſand, of it at a clap: that is the way the Common-wealths money goes.</p>
+            <p>Indeed replyed Mr. <hi>Peters,</hi> they have given money among them hereto<g ref="char:EOLhyphen"/>fore; but I pray you, what hath been given of late? and becauſe you ſpeak of <hi>Ireton,</hi> what hath he got, that you mention him? I am ſure I heard a neer friend of his averre, that to his knowledge, that ſervice for the State had impaired and hindred him in his own eſtate at leaſt 3000 l.</p>
+            <p>No replyed L. Coll. <hi>Lilborne,</hi> what need hath he, his father hath e<g ref="char:EOLhyphen"/>nough given him for himſelf and <hi>Ireton</hi> too; and they piſſe both in one Glaſſe, and know well enough how to ſhare it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le warrant you:</p>
+            <p>Becauſe you mention <hi>Cromwell</hi> ſo much; what hath he had given him, that he hath not deſerved, by his many great and indefatigable ſervices for the Common-wealth? and therefore what hath been given him he may in juſtice, honeſty, and honour accept: but let us leave this diſcourſe, L. Coll. <hi>Lilborne,</hi> wilt thou never leave thy ſelf free from trouble? what is the occaſion of your being here?</p>
+            <p>Do you not know, replyed L. Coll. <hi>Lilborne,</hi> ask your great Maſters, they can beſt inform you.</p>
+            <p>But doe you hear of the blood that hath been ſhed of late; they ſay your buſtle hath been the occaſion of it. I was at <hi>Sandwiſh,</hi> and there I met with ſome of their Letters, ſigned with <hi>C. Y. S. C.</hi>
+            </p>
+            <p>You did not finde my hand there, did you, ſaid L. Coll. <hi>Lilborne?</hi>
+            </p>
+            <p>No replyed Mr. <hi>Peters;</hi> but yet they ſay, our are much the occaſion of the late ſtirr. Is it wiſdome, becauſe you cannot have all done preſent<g ref="char:EOLhyphen"/>ly, according to your mindes; therefore to run out to ſuch courſes as will tear all to pieces, and undoe both your ſelves and the whole kingdome?</p>
+            <pb facs="tcp:45724:4"/>
+            <p>I the occaſion thereof, replyed Lieut. Coll. <hi>Lilborne?</hi> it they deal with others as they deal with me, there will be occaſion enough ere long i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le warrant you; for I have been here this three moneths or upwards, and have not as yet ſeen accuſation, Accuſer, or Judge, and is this according to the Laws and Petition of Right, which they have profeſſed and promi<g ref="char:EOLhyphen"/>ſed ſo often to maintain? I tell you, they are worſe tyrants then the King, whoſe head they have taken off.</p>
+            <p>You talke of Lawes and the Petition of right, replyed Mr. <hi>Peters,</hi> when as you will have nothing to be law but what pleaſes your ſelfe, and ſerves your own turne, and that no longer neither. Hath not you your ſelfe ex<g ref="char:EOLhyphen"/>claimed more then any man againſt the Lawes, Lawyers, and their Courts in the Kings time, as wicked, cruell, abſolute oppreſſive and ſlaviſh? yet now you ſeeme to cry up thoſe lawes againe to ſerve your owne turne.</p>
+            <p>I tell you, ſaid Mr. <hi>Peters</hi> (taking up <hi>Cookes</hi> reports) theſe Law Books Lievtenant Collonell, doe undoe thee, thou waſt of another minde to my knowledge not long ſithence.</p>
+            <p>Law Bookes undoe me? No, they doe or ſhould keep us all from un<g ref="char:EOLhyphen"/>doing.</p>
+            <p>I tell you, ſaid Mr. <hi>Peters,</hi> there is no Law in thee, for doe you not ſee by daily experience and as your ſelfe have formerly obſerved, that <hi>Cookes</hi> and <hi>Littletons</hi> opinions, and the opinions of the Judges paſſe for Law? notwithſtanding you ſhall not finde three of them in one minde in many caſes, now Law truly ſo called is not the opinion of this or that man.</p>
+            <p>But what ſay you then to the Petition of right and <hi>Magna Charta,</hi> are not thoſe Law? our Predeceſſors called them Lawes and if they be no Laws we are in a miſerable condition.</p>
+            <p>I have ſaid there is no Law in <hi>England,</hi> I tell you this is my owne pri<g ref="char:EOLhyphen"/>vate opinion and I know not three more in <hi>England</hi> of my minde in this particular, it is my opinion only I ſay, for the reaſons fore-men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>No Law in <hi>England!</hi> If this be their Tenent and yours, that are a lea<g ref="char:EOLhyphen"/>ding man amongſt them, the Lord deliver us: you are all of you a company of the very arrant'ſt Traitors, Rogues, and Villains in the world: did not you fight for the Laws of the land? I am ſure you told the people you did, if you did not? you have deceived the people: and you have no other way or ſhift in the world, that I know of to ſave your ſelves from being Trai<g ref="char:EOLhyphen"/>tors, in taking of the Kings head, but that he endeavoured the deſtructi<g ref="char:EOLhyphen"/>on of the Laws, and therefore for the peoples ſafety, you were bound to deſtroy him.</p>
+            <p>Why, This is true, ſaid Mr. <hi>Peters,</hi> this is it indeed that made his execution juſt and righteous before God and Man; but yet the Lawes were, and are
+<pb facs="tcp:45724:4" rendition="simple:additions"/>ſome of them, evill, wicked, and ſlaviſh, that had by him and his pre<g ref="char:EOLhyphen"/>deceſſors from the Conqueſt, been forcibly and tyrannouſly impoſed on us, and wee nor you did not fight for the continuation or preſervation of them I hope, but to be freed from them. But I pray you, L. Col. give me your definition of Law; for it may be elſe you may miſtake and wreſt my words.</p>
+            <p>I will not give it you in my own ſenſe, the Parliament ſhall give it you in their own Declaration. So turning to their Declaration, Mr. <hi>Peters</hi> read it, and ſaid, Why, is this a definition of Law? This is onely a de<g ref="char:EOLhyphen"/>ſcription of the benefit, and good effects thereof; and all theſe good things here ſpoken, doe we not now enjoy in <hi>England?</hi> This is no de<g ref="char:EOLhyphen"/>finition, it wants the <hi>Genus</hi> and the other ingredients that make a true de<g ref="char:EOLhyphen"/>finition: the definition of Law is rather ſome ſuch thing as this, <hi>viz,</hi> Rea<g ref="char:EOLhyphen"/>ſon deduced and collected from particular events: For neceſſity, you know was, and is the mother of Law, evill manners are the occaſion of Lawes, and I know no Common-wealth this day in the world, that can ſhew me a Body of law that will hold to all changes that may and wil hap<g ref="char:EOLhyphen"/>pen in a State: and therefore the daily Placats and Proclamations, or E<g ref="char:EOLhyphen"/>dicts of the States of <hi>Holland,</hi> pleaſed me very well when I lived there.</p>
+            <p>So then it ſeems all muſt be according to the will of your Parliament and Army, it ſeemes the Sword muſt give us Lawes.</p>
+            <p>Why what Law hath there been in this land heretofore, that was not impoſed by the Sword? Did not the <hi>Norman</hi> thus impoſe his ſlaviſh Lawes on us? And what Law have we now that we have not gotten and preſerved by the Sword. I tell you, the ſword muſt be in ſome hand or o<g ref="char:EOLhyphen"/>ther, to enforce the obſervation of Laws, or what were you the better for Law? It is honeſt an good Governours as much as laws, that bring all theſe benefits on a people you read of in the Parliaments declaration: for if wic<g ref="char:EOLhyphen"/>ked debauched perſons be in place of power, be the Lawes never ſo many or good, the people will be miſerable; but now if good men be in place, if the Lawes be evill or defective, there is ſome preſumption and ground of hope that they will make them better.</p>
+            <p>I tell you (replyed L. Col. <hi>Lilburne</hi>) I had rather live under wicked De<g ref="char:EOLhyphen"/>vils with good Lawes, then under the beſt men in the world with bad or none at all.</p>
+            <p>But I am not of your mind, nor many reaſonable men elſe, I think.</p>
+            <p>Why then, ſaid (L. Col, <hi>Lilburne,</hi>) if the ſword muſt give Law, if ſixe Theeves meet three honeſt men and becauſe they are ſtronger, rob them, and take away their money, therefore the act is juſtifiable in them, becauſe they had the ſtronger ſword.</p>
+            <p>No, replied I: but if three honeſt men ſhould met ſix theeves that
+<pb facs="tcp:45724:5" rendition="simple:additions"/>had robbed them, and being ſtronger then they, ſhould take away their own again from them, is not the act lawfull, becauſe they uſed force to cauſe the theeves to deliver them what was their own again? But L. Col. <hi>Lilburne,</hi> ſaid Mr. <hi>Peters,</hi> becauſe you cry up Law, &amp; are for Law ſo much, what doe you think of the Decalogue, or ten Commandements, are they no lawes for us in <hi>England,</hi> or what do you think of the Parliamen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Acts and Orders, are theſe no lawes? I tell you, our wound at preſent lies main<g ref="char:EOLhyphen"/>ly in the lawes of the land, and in the Adminiſtrators and adminiſtration thereof, there being no leſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by computation then 50000. Lawyers in the land, enough to ſet ten Kingdoms together by the ears the proceſſe of law being as tedious and vexatious as ever, and the Courts as numerous, ſome few onely excepted, I hope the Parliament will take this into their conſi<g ref="char:EOLhyphen"/>deration in time, and recti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie this grievance to the Nation.</p>
+            <p>Sir, ſaid L. Col. <hi>Lilburne,</hi> I thought my ſelfe ſafe whilſt I ſquared my actions by the Rules of thoſe lawes which the Parliament hath ſo often ſworn and declared to maintain, as the <hi>Petition of Right, &amp;c.</hi> and ſo you may, and every man elſe, that walkes ſo by them, as he walkes not beſide them.</p>
+            <p>I ſhall let you ſee your miſtake (L Col. <hi>Lilburn</hi>) in that particular, and that you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and the Common-wealths ſafety lies not in the <hi>Petition of Right,</hi> or <hi>Magna Charta,</hi> or any other thing commonly called <hi>Law</hi> in the land, For Neceſſity, you know, is the mother of all Lawes, and there<g ref="char:EOLhyphen"/>fore lawes doe and muſt change and alter, in that no law by man can bee made ſo abſolute and perfect, but that time and many other circumſtances may alter the reaſon of it, which indeed is onely the law, and then it ceaſes to be a law any longer. And as for <hi>Magna Charta,</hi> and the <hi>Petition of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ht,</hi> what are they but ſome poore dull fragments and peeces of reaſon and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eedome that our forefathers ſcrabled for, and wreſted by force out of the hands of their cruell tyrants? And becauſe we have obtained a little of what was our right, muſt wee be bound up to it ſo, as never to en<g ref="char:EOLhyphen"/>deavour more to make our ſelves abſolute free men, when God gives in our power ſo to doe. Sir, I am very ſory for you, and doe wiſh the Spirit of glory may reſt upon you: for I aſſure you in many things of your Diſ<g ref="char:EOLhyphen"/>courſe, eſpecially in the violence of it, your ſpirit ſeems to me very unhum<g ref="char:EOLhyphen"/>bled and unchriſtian. And ſo L Col. I bid you fare well, if I can doe you any good, I ſhall be ready to ſerve you.</p>
+            <p>Thus, Reader, have I given thee to the beſt of my remembrance, and of theirs alſo that were with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and were ear-witneſſes as well as my ſelfe, a true, full, and impartiall Rela<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the Conference that paſſed between them: Now I leave thee impartially to judge, whether the Relator in his Relation intended it for the publick good, and not rather to vent and inſinuare a ſlander on Mr. <hi>Peters,</hi> and to prejudice him, and the whole State in him, in the thoughts of the people. </p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45724:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
